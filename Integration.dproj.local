@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.151,C:\Users\guest\Documents\Embarcadero\Studio\Projects\Unit1.dfm=Z:\Лаб.2 - Интегрирование функции\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\Users\guest\Documents\Embarcadero\Studio\Projects\Project1.dproj=Z:\Лаб.2 - Интегрирование функции\Integration.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.151,C:\Users\guest\Documents\Embarcadero\Studio\Projects\Unit1.pas=Z:\Лаб.2 - Интегрирование функции\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,=C:\Users\guest\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
